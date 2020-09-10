@@ -1,0 +1,5 @@
+#!/bin/bash
+# Bash wrapper for TCProxy.
+# Author: Umar Abdul
+
+java com.umarabdul.networking.tcproxy.TCProxy "$@"
